@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css?family=Neuton:200,300,regular,italic,700,800);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fcfdfca6;
+    display: flex;
+    padding-top: 4rem;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.tittle {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    font-size: 28px;
+    margin-bottom: 64px;
+    font-family: 'Neuton';
+    letter-spacing: 0.3rem;
+    color: rgba(205, 157, 168, 0.679);
+}
+
+.animal img {
+    width: 15vw;
+    height: 25vh;
+}
+
+.row {
+    display: flex;
+    width: 900px;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+
+.item img {
+    width: 6vw;
+    height: 9vh;
+}
+
+.item {
+    padding: 0.8rem 1rem;
+    cursor: grab;
+}
+
+.item:active {
+    cursor: grabbing;
+}
+
+.placeholder {
+    width: 10vw;
+    height: 15vh;
+}
+
+
+.hold {
+    box-shadow: 2px 0 10px 0 rgba(0, 0, 0, 0.603);
+}
+
+.hide {
+    display: none;
+}
+
+.hovered {
+    border-bottom: 2px solid rgba(185, 185, 233, 0.374);
+}
