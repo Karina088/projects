@@ -6,7 +6,7 @@
 - JavaScript
 
 1. Cards
-- image slider
+ image slider
 2. Drag & Drop 
 - game 
 3. Slider 
