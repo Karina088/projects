@@ -8,10 +8,10 @@
 1. Cards
    - image slider
 2. Drag & Drop 
-- game 
+   - game 
 3. Slider 
-- vertical slider with opposite switching
+   - vertical slider with opposite switching
 4. Board
-- game
+   - game
 5. Aim Training
-- game
+   - game
