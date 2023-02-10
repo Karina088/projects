@@ -6,12 +6,12 @@
 - JavaScript
 
 1. Cards
- image slider
+   - image slider
 2. Drag & Drop 
 - game 
 3. Slider 
 - vertical slider with opposite switching
 4. Board
--game
+- game
 5. Aim Training
 - game
