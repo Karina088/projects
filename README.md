@@ -5,6 +5,7 @@
 - CSS3,
 - JavaScript
 
+### 5 projects:
 
 1. **Cards**
    - image slider
