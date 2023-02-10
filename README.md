@@ -5,15 +5,15 @@
 - CSS3,
 - JavaScript
 
-1. Cards
+1. **Cards
    - image slider
         
-2. Drag & Drop 
+2. **Drag & Drop 
    - game 
          
-3. Slider 
+3. **Slider 
    - vertical slider with opposite switching
-4. Board
+4. **Board
    - game
-5. Aim Training
+5. **Aim Training
    - game
