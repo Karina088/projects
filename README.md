@@ -15,6 +15,7 @@
          
 3. **Slider** 
    - vertical slider with opposite switching
+   - https://codepen.io/karina088/pen/LYBmKza
 4. **Board**
    - game
 5. **Aim Training**
